@@ -29,11 +29,11 @@
 - 🌟 Challenging backend architecture projects
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
-<!-- Uncomment if you want to add stats -->
-<!-- [![Abdulwahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awahidanon&show_icons=true&theme=dark)](https://github.com/awahidanon) -->
+ Uncomment if you want to add stats 
+[![Abdulwahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awahid-ali&show_icons=true&theme=dark)](https://github.com/awahid-ali)  -->
 
 ---
 
