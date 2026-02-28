@@ -10,11 +10,11 @@
 I’m a **passionate fullstack developer** with over **5 years of experience** crafting scalable, secure, and data-driven web applications.  
 I love building solutions that make an impact — from enterprise systems to community-driven tech projects.  
 
-- 🎯 Specialized in **Django**, **Laravel**, and **Vue.js**  
+- 🎯 Specialized in **Django**, **FastAPI**, **Laravel**, and **Vue.js**  
 - 🔐 Advocate for **security-focused** and **clean architecture** principles  
 - 🎓 Pursuing **MSc in Computer Science @ Samara University**  
 - 🌍 Active in the **Django** and **open-source** communities  
-- 🧠 Currently exploring **cloud-native architectures** and **AI integration in web apps**
+- 🧠 Currently exploring **cloud-native architectures**, **FastAPI**, and **AI/LLM integration in web apps**
 
 ---
 
@@ -24,6 +24,7 @@ I love building solutions that make an impact — from enterprise systems to com
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![DRF](https://img.shields.io/badge/-Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 
@@ -39,11 +40,17 @@ I love building solutions that make an impact — from enterprise systems to com
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
+#### 🤖 AI / Machine Learning  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
+
 ---
 
 ### 🌟 What I'm Up To  
 
-- 🧩 Building **secure, scalable backend systems** with Django & Laravel  
+- 🧩 Building **secure, scalable backend systems** with Django, FastAPI & Laravel  
+- 🤖 Integrating **AI/LLM capabilities** into web apps using OpenAI & LangChain  
 - 🤝 Contributing to **open-source** and mentoring developers  
 - 📘 Reading *Applied Cryptography* by Bruce Schneier  
 - ⚙️ Learning **Docker** and **Kubernetes** for production-ready deployment  
